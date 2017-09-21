@@ -4,13 +4,13 @@
 
 # YouTube channel ID(s)
 # Can be multiple channels - eg: `CHANNELIDS=("aaaaaaaaaaaaaaaaaaaa" "bbbbbbbbbbbbbbbbbbbb")`
-CHANNELIDS=("REPLACE_WITH_CHANNEL_ID")
+CHANNELIDS=("ZB24Grussia ")
 
 # Public callback URL
-CALLBACKURL="REPLACE_WITH_CALLBACK_URL"
+CALLBACKURL="https://www.youtube.com/c/ZB24Grussia"
 
 # Secret - must match ytnotify.php; should be reasonably hard to guess
-SECRET="REPLACE_WITH_UNIQUE_SECRET"
+SECRET="ZB 24-Grussia"
 
 ###   ###   ###  ###   ###   ###
 
